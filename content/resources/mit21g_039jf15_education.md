@@ -5,8 +5,6 @@ description: This resource contains information regarding student 1 example fina
 file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/ef797e151c842997a6907f75c47de34b_MIT21G_039JF15_Education.pdf
 file_size: 186741
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

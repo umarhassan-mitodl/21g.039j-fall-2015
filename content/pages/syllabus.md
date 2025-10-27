@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, requirements, grading, and the Writing and Communication
   Center at MIT.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -140,4 +138,4 @@ Student presentations will take place during the final few weeks of class (10 mi
 The Writing and Communication Center at MIT
 -------------------------------------------
 
-The [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) at MIT offers _free_ one-on-one professional advice from communication experts (MIT lecturers who all have advanced degrees and who are all are published writers). The WCC works with undergraduate and graduate students and with post-docs. The WCC helps you strategize about all types of academic, creative, job-related, and professional writing as well as about all aspects of oral presentations (including practicing your presentations & designing slides). No matter what department or discipline you are in, we help you think your way more deeply into your topic, help you see new implications in your data, research and ideas. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
+The {{% resource_link "a5f13434-87ce-4f9e-9a64-cf24177b1939" "Writing and Communication Center" %}} at MIT offers _free_ one-on-one professional advice from communication experts (MIT lecturers who all have advanced degrees and who are all are published writers). The WCC works with undergraduate and graduate students and with post-docs. The WCC helps you strategize about all types of academic, creative, job-related, and professional writing as well as about all aspects of oral presentations (including practicing your presentations & designing slides). No matter what department or discipline you are in, we help you think your way more deeply into your topic, help you see new implications in your data, research and ideas. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.

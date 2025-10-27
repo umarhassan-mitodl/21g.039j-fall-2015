@@ -5,8 +5,6 @@ description: This resource contains information regarding student 3 example fina
 file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/8150ffb0835080f08963f421b84c9313_MIT21G_039JF15_Feminism.pdf
 file_size: 906725
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

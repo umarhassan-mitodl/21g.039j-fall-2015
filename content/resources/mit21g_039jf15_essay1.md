@@ -4,8 +4,6 @@ description: This resource contains information regarding assignments.
 file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/12dce05f09aca516260f937062d55a4e_MIT21G_039JF15_Essay1.pdf
 file_size: 396643
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

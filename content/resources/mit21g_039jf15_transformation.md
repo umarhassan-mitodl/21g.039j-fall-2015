@@ -5,8 +5,6 @@ description: This resource contains information regarding student 2 example essa
 file: /courses/21g-039j-gender-and-japanese-popular-culture-fall-2015/3ebd9d20ba299f51fea6624963c6ae58_MIT21G_039JF15_Transformation.pdf
 file_size: 865920
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
