@@ -13,11 +13,11 @@ uid: 9a668f60-c2e8-35d2-5c6c-b026dd6a5402
 
 \[G\] = Graeber, David. *Debt: The First 5000 Years*. Melville House, 2014. ISBN: 9781612194196.
 
-\[H\] = Higashimura, Akiko. [*Kurageheime Manga*](https://kuragehime.fandom.com/wiki/Manga). mangareader.net.
+\[H\] = Higashimura, Akiko. {{% resource_link "3734cf8a-ac19-46a1-a990-61ad4c7f8b71" "*Kurageheime Manga*" %}}. mangareader.net.
 
 \[J\] = Jackson, Stevi, ed. *Women's Studies: Essential Readings*. New York University Press, 1993. ISBN: 9780814742150.
 
-\[T\] = Takeyama, Akiko. *Staged Seduction: Selling Dreams in a Tokyo Host Club*. Stanford University Press, 2016. ISBN: 9780804798549. \[Preview with [Google Books](http://books.google.com/books?id=WbSRCwAAQBAJ&pg=PAfrontcover)\]
+\[T\] = Takeyama, Akiko. *Staged Seduction: Selling Dreams in a Tokyo Host Club*. Stanford University Press, 2016. ISBN: 9780804798549. \[Preview with {{% resource_link "212a01ac-a7c0-4930-a1fa-ff03e0bf755c" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -50,18 +50,18 @@ Feminist Social Theory and Cross Cultural Perspective
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecturer: [Professor Edward Schiappa](http://cmsw.mit.edu/profile/ed-schiappa/), Comparative Media Studies, MIT
+Guest Lecturer: {{% resource_link "32439fa0-8e57-4742-99de-1f8667f121a4" "Professor Edward Schiappa" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}{{< tdopen >}}
 
-*Prior to the reading, please take the* [*Gender Traits Test aka the Bem Test*](http://www.afifthofnothing.com/gendertest.html)
+*Prior to the reading, please take the* {{% resource_link "c6f63ce5-f78c-455b-84b4-6be71b1dba19" "*Gender Traits Test aka the Bem Test*" %}}
 
-Schiappa, Ed. "The Impossible Dream of Representational Correctness." Chapter 1 in *Beyond Representational Correctness: Rethinking Criticism of Popular Media*. State University of New York Press, 2008. ISBN: 9780791474242. \[Preview with [Google Books](http://books.google.com/books?id=WyZKNP2hMucC&pg=PA23=onepage)\]
+Schiappa, Ed. "The Impossible Dream of Representational Correctness." Chapter 1 in *Beyond Representational Correctness: Rethinking Criticism of Popular Media*. State University of New York Press, 2008. ISBN: 9780791474242. \[Preview with {{% resource_link "df343869-5607-4b65-8aa4-6be7cd819380" "Google Books" %}}\]
 
 ### Optional
 
-Katsurada, Emiko, and Yoko Sugihara. "[A Preliminary Validation of the Bem Sex Role Inventory in Japanese Culture](http://dx.doi.org/10.1177/0022022199030005005)." *Journal of Cross-Cultural Psychology* 30, no. 5 (1999): 641–5.
+Katsurada, Emiko, and Yoko Sugihara. "{{% resource_link "2ce10398-9f3f-49ea-baa3-f1cf281eec94" "A Preliminary Validation of the Bem Sex Role Inventory in Japanese Culture" %}}." *Journal of Cross-Cultural Psychology* 30, no. 5 (1999): 641–5.
 
-Sugihara, Yoko, and Emiko Katsurada. "[Gender-Role Personality Traits in Japanese Culture](http://dx.doi.org/10.1111/j.1471-6402.2000.tb00213.x)." *Psychology of Women Quarterly* 24, no. 4 (2000): 309–18.
+Sugihara, Yoko, and Emiko Katsurada. "{{% resource_link "f91510a0-7e5a-42a9-ad57-afc958b2e50c" "Gender-Role Personality Traits in Japanese Culture" %}}." *Psychology of Women Quarterly* 24, no. 4 (2000): 309–18.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -71,21 +71,21 @@ Women and Media + "Rotten Girls" (*fujoshi*) Manga
 
 \[J\] Chapter 14: Representations of Women in the Media.
 
-\[H\] Chapter 1: [Sex and the Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7437-chapter-1-sex-and-the-amars?progress=59.345).
+\[H\] Chapter 1: {{% resource_link "3495695b-ba62-4b11-b4cf-393cac420564" "Sex and the Amars" %}}.
 
-\[H\] Chapter 2: [Pretty Woman](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7438-chapter-2-pretty-woman?progress=0.986).
+\[H\] Chapter 2: {{% resource_link "49ae5119-579c-4651-bf82-2b05b0f738f5" "Pretty Woman" %}}.
 
-\[H\] Chapter 3: [Sukiyaki Western Django](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7439-chapter-3-sukiyaki-western-django?progress=1.044).
+\[H\] Chapter 3: {{% resource_link "b49da15f-d96d-423a-85c2-56b05962667e" "Sukiyaki Western Django" %}}.
 
-\[H\] Chapter 4: [Enchanted](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7440-chapter-4-enchanted?progress=0.884).
+\[H\] Chapter 4: {{% resource_link "50ffd6c2-d689-4590-b975-39590d97dd7b" "Enchanted" %}}.
 
-\[H\] Chapter 5: [Next Next Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7441-chapter-5-vampires-from-amars?progress=0.855).
+\[H\] Chapter 5: {{% resource_link "316e5260-f078-4ea9-8e34-e7a52e0d9453" "Next Next Amars" %}}.
 
-\[H\] Chapter 6: [Take Me to the Aquarium](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7442-chapter-6-take-me-out-to-the-aquarium?progress=0.754).
+\[H\] Chapter 6: {{% resource_link "671e54fa-b153-4881-9be0-3a8a75531a8b" "Take Me to the Aquarium" %}}.
 
 ### View
 
-[*Kamikaze Girls*](http://www.imdb.com/title/tt0416220/?ref_=ttfc_fc_tt). Directed by Tetsuya Nakashima. Color, 102 min. 2004.
+{{% resource_link "4fa8e6f9-c65e-4310-86f3-197c653bcfc9" "*Kamikaze Girls*" %}}. Directed by Tetsuya Nakashima. Color, 102 min. 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -93,17 +93,17 @@ Women and Media + "Rotten Girls" (*fujoshi*) Manga
 "Rotten Girls" (*fujoshi*) Manga (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-\[H\] Chapter 7: [Clear and Present Danger](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7444-chapter-7-clear-and-present-danger?progress=0.777).
+\[H\] Chapter 7: {{% resource_link "ef4c05f4-bb45-4d25-ade5-c1b3d9945a0b" "Clear and Present Danger" %}}.
 
-\[H\] Chapter 8: [I Want to Become a Jellyfish](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7445-chapter-8-i-want-to-be-a-jellyfish?progress=1.08).
+\[H\] Chapter 8: {{% resource_link "71d9ddb1-5163-49de-8c01-7c16a5338a2e" "I Want to Become a Jellyfish" %}}.
 
-\[H\] Chapter 9: [Seven Amars](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7446-chapter-9-seven-sisters?progress=1.044).
+\[H\] Chapter 9: {{% resource_link "03bf5d2b-47ae-4116-8f87-71b0dec2fe48" "Seven Amars" %}}.
 
-\[H\] Chapter 10: [Fatal Attraction](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7447-chapter-10-fatal-attraction?progress=1.044).
+\[H\] Chapter 10: {{% resource_link "1d43ce26-cd59-4af7-9d62-1483ddf0a08b" "Fatal Attraction" %}}.
 
-\[H\] Chapter 11: [Driving Mr. Hanamori](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7448-chapter-11-driving-mr-manamori?progress=0.855).
+\[H\] Chapter 11: {{% resource_link "1b9644a1-b3df-4e98-bc02-d8af8c17871a" "Driving Mr. Hanamori" %}}.
 
-\[H\] Chapter 12: [In The Closet](https://comics.inkr.com/title/231-princess-jellyfish/chapter/7449-chapter-12-in-the-closet?progress=0.745).
+\[H\] Chapter 12: {{% resource_link "ebec3fbc-5af3-47d0-9db7-1b976ffcbe06" "In The Closet" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -111,9 +111,9 @@ Women and Media + "Rotten Girls" (*fujoshi*) Manga
 "Cool Japan" and Its Discontents
 {{< tdclose >}}{{< tdopen >}}
 
-Miller, Laura. "[Cute Masquerade and the Pimping of Japan](http://dx.doi.org/10.1111/j.1475-6781.2011.01145.x)." *International Journal of Japanese Sociology* 20, no. 1 (2011): 18–29.
+Miller, Laura. "{{% resource_link "a78b500f-e0be-41ba-9d2e-635713d39232" "Cute Masquerade and the Pimping of Japan" %}}." *International Journal of Japanese Sociology* 20, no. 1 (2011): 18–29.
 
-McGray, Douglas. "[Japan's Gross National Cool](http://foreignpolicy.com/2009/11/11/japans-gross-national-cool/)." *Foreign Policy*, November 11, 2009.
+McGray, Douglas. "{{% resource_link "9a8a3234-19d8-4a75-aed9-1aee3e572530" "Japan's Gross National Cool" %}}." *Foreign Policy*, November 11, 2009.
 
 Adorno, Theodor, and Max Horkheimer. "The Culture Industry: Enlightenment as Mass Deception." Chapter 2 in *The Cultural Studies Reader*. 3rd ed. Edited by Simon During. Routledge, 2007. ISBN: 9780415374132.
 
@@ -129,11 +129,11 @@ Christakis, Nicholas A., and James H. Fowler. *Connected: The Surprising Power o
 Henry Jenkins on Participatory / Convergence Culture
 {{< tdclose >}}{{< tdopen >}}
 
-Jenkins, Henry. "[Rethinking 'Rethinking Convergence/Culture'](http://dx.doi.org/10.1080/09502386.2013.801579)." *Cultural Studies* 28, no. 2 (2014): 267–97.
+Jenkins, Henry. "{{% resource_link "41d28ce7-a420-4220-be53-47c4dd8e8cca" "Rethinking 'Rethinking Convergence/Culture'" %}}." *Cultural Studies* 28, no. 2 (2014): 267–97.
 
-———. "[Participatory Culture: From Co-Creating Brand Meaning to Changing the World](http://dx.doi.org/10.2478/gfkmir-2014-0096)." *GfK Marketing Intelligence Review* 6, no. 2 (2014): 34–39.
+———. "{{% resource_link "b5f0d3b7-2d74-4527-bb05-34e89c685b7d" "Participatory Culture: From Co-Creating Brand Meaning to Changing the World" %}}." *GfK Marketing Intelligence Review* 6, no. 2 (2014): 34–39.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262701075) ———. "Quentin Tarantino's Star Wars? Digital Cinema, Media Convergence, and Participatory Culture." Chapter 18 in *Rethinking Media Change: The Aesthetics of Transition*. Edited by David Thorborn and Henry Jenkins. MIT Press, 2004. ISBN: 9780262701075.
+{{% resource_link "4cae1ef1-9139-4237-bece-d841d1ae9004" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Quentin Tarantino's Star Wars? Digital Cinema, Media Convergence, and Participatory Culture." Chapter 18 in *Rethinking Media Change: The Aesthetics of Transition*. Edited by David Thorborn and Henry Jenkins. MIT Press, 2004. ISBN: 9780262701075.
 
 Negus, Keith. "Rethinking Creative Production Away From the Cultural Industries." Chapter 13 in *Media and Cultural Theory*. Edited by James Curran and David Morley. Routledge, 2005. ISBN: 9780415317054.
 
@@ -149,11 +149,11 @@ Capital, Debt, and Power
 
 \[G\] Chapter 2: The Myth of Barter.
 
-Stiglitz, Joseph E., and Linda J. Bilmes. "[The 1 Percent's Problem](http://www.vanityfair.com/news/2012/05/joseph-stiglitz-the-price-on-inequality)," *Vanity Fair*, May 31, 2012.
+Stiglitz, Joseph E., and Linda J. Bilmes. "{{% resource_link "749f263d-a72f-4293-bb16-855029b93ec8" "The 1 Percent's Problem" %}}," *Vanity Fair*, May 31, 2012.
 
 Piketty, Thomas. "Acknowledgements." In *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer. Belknap Press, 2014. ISBN: 9780674430006.
 
-———. "Introduction." In *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer. Belknap Press, 2014. ISBN: 9780674430006. \[Preview with [Google Books](http://books.google.com/books?id=T8zuAgAAQBAJ&pg=PA1=onepage)\]
+———. "Introduction." In *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer. Belknap Press, 2014. ISBN: 9780674430006. \[Preview with {{% resource_link "db0b5f35-d57d-4197-9cc1-c5e3912a6766" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -177,15 +177,15 @@ Robertson, Jennifer. "Gendering Humanoid Robots: Robo-Sexism in Japan." Body and
 
 ### View
 
-[*Ghost in the Shell Arise: Border 1 – Ghost Pain*](http://www.imdb.com/title/tt2636124/?ref_=fn_al_tt_5). Directed by Kazuchika Kise and Masahiko Murata. Color, 58 min. 2013.
+{{% resource_link "772c5f2d-def8-4bfd-8168-64086c4791db" "*Ghost in the Shell Arise: Border 1 – Ghost Pain*" %}}. Directed by Kazuchika Kise and Masahiko Murata. Color, 58 min. 2013.
 
-[*Ghost in the Shell Arise: Border 2 – Ghost Whisper*](http://www.imdb.com/title/tt3017864/?ref_=fn_al_tt_6). Directed by Kazuchika Kise. Color, 57 min. 2013.
+{{% resource_link "c3edc1e5-ee86-49f7-8ec7-1fcddebaa3f5" "*Ghost in the Shell Arise: Border 2 – Ghost Whisper*" %}}. Directed by Kazuchika Kise. Color, 57 min. 2013.
 
-[*Ghost in the Shell Arise: Border 3 – Ghost Tears*](http://www.imdb.com/title/tt3579524/?ref_=fn_al_tt_4). Directed by Kazuchika Kise. Color, 55 min. 2014.
+{{% resource_link "b946f48c-a5b4-4c30-a4fd-eeb12d7f3f07" "*Ghost in the Shell Arise: Border 3 – Ghost Tears*" %}}. Directed by Kazuchika Kise. Color, 55 min. 2014.
 
-[*Ghost in the Shell Arise: Border 4 – Ghost Stands Alone*](http://www.imdb.com/title/tt4016942/?ref_=fn_al_tt_9). Directed by Kazuchika Kise. Color, 59 min. 2014.
+{{% resource_link "d1422a2a-d634-403a-95fd-485fda86b45c" "*Ghost in the Shell Arise: Border 4 – Ghost Stands Alone*" %}}. Directed by Kazuchika Kise. Color, 59 min. 2014.
 
-[*Time of Eve aka Eve no Jikan*](http://www.imdb.com/title/tt1715210/). Directed by Yashhiro Yoshiura. Color, 106 min. 2010. MoeTube.
+{{% resource_link "7d0b9194-845c-4db4-b5d8-c242eff5a6e6" "*Time of Eve aka Eve no Jikan*" %}}. Directed by Yashhiro Yoshiura. Color, 106 min. 2010. MoeTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -201,7 +201,7 @@ Anime and Collaborative Creativity
 
 ### View
 
-[*The Girl Who Leapt Through Time*](http://www.imdb.com/title/tt0808506/?ref_=fn_al_tt_1). Directed by Mamoru Hosoda. Color, 98 min. 2006.
+{{% resource_link "af410c27-c4ec-48b3-83e6-9fbd48568f4d" "*The Girl Who Leapt Through Time*" %}}. Directed by Mamoru Hosoda. Color, 98 min. 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -216,9 +216,9 @@ Anime and Collaborative Creativity, cont'd
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Either attend class or attend Harvard University Professor [Theodore C. Bestor](http://scholar.harvard.edu/bestor)'s lecture "Washoku on the World Stage: UNESCO and the Promotion of Japanese Cuisine."
+Either attend class or attend Harvard University Professor {{% resource_link "7c7eafd6-fa42-476e-aa39-c374bca04474" "Theodore C. Bestor" %}}'s lecture "Washoku on the World Stage: UNESCO and the Promotion of Japanese Cuisine."
 {{< tdclose >}}{{< tdopen >}}
-Bestor, Theodore C. ["How Sushi Went Global." (PDF - 5.4MB)](http://scholar.harvard.edu/files/bestor/files/bestor_2000_-_how_sushi_went_global.pdf?m=1431455874) *Foreign Policy* 121 (2000): 54–63.
+Bestor, Theodore C. {{% resource_link "f107e450-3a46-4c19-95f6-e8672f41d586" "\"How Sushi Went Global.\" (PDF - 5.4MB)" %}} *Foreign Policy* 121 (2000): 54–63.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -227,11 +227,11 @@ Gender and Performance
 
 Robertson, Jennifer. "Introduction." In *Takarazuka: Sexual Politics and Popular Culture in Modern Japan*. University of California Press, 1998. ISBN: 9780520211513.
 
-———. "Ambivalence and Popular Culture." Chapter 1 in *Takarazuka: Sexual Politics and Popular Culture in Modern Japan*. University of California Press, 1998. ISBN: 9780520211513. \[Preview with [Google Books](http://books.google.com/books?id=w_c_Gh00uEQC&pg=PA25=onepage)\]
+———. "Ambivalence and Popular Culture." Chapter 1 in *Takarazuka: Sexual Politics and Popular Culture in Modern Japan*. University of California Press, 1998. ISBN: 9780520211513. \[Preview with {{% resource_link "bfec147d-871a-4b6b-a111-9d0ba947d8c9" "Google Books" %}}\]
 
 ### View
 
-[*Dream Girls*](http://www.imdb.com/title/tt0109664/?ref_=fn_al_tt_2). Directed by Kim Longinotto and Jano Williams. Color, 50 mins. 1994.
+{{% resource_link "dd3993f5-3717-439f-bcd1-916aeaa0c3d0" "*Dream Girls*" %}}. Directed by Kim Longinotto and Jano Williams. Color, 50 mins. 1994.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -247,11 +247,11 @@ Host Clubs, Masculinity, and Seduction
 
 \[T\] Chapter 3: Entrepreneurial Attraction.
 
-Allison, Anne. Excerpts from *Nightwork: Sexuality, Pleasure, and Corporate Masculinity in a Tokyo Hostess Club*. University of Chicago Press, 1994. ISBN: 9780226014876. \[Preview with [Google Books](http://books.google.com/books?id=6O_hLG3eQQUC&pg=PAfrontcover)\]
+Allison, Anne. Excerpts from *Nightwork: Sexuality, Pleasure, and Corporate Masculinity in a Tokyo Hostess Club*. University of Chicago Press, 1994. ISBN: 9780226014876. \[Preview with {{% resource_link "6ba34148-b19e-4bd0-99fb-5ba70baee17a" "Google Books" %}}\]
 
 ### View
 
-[*Ouran High School Club*](http://www.imdb.com/title/tt2036375/?ref_=fn_al_tt_3). Directed by Chul Han. Color, 105 min. 2012.
+{{% resource_link "cb700b11-76c5-40f0-90df-50365399ff20" "*Ouran High School Club*" %}}. Directed by Chul Han. Color, 105 min. 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -265,9 +265,9 @@ Mishima, Yukio. "Onnagata." In *Death in Midsummer and Other Stories*. New Direc
 Idols and Celebrity Culture
 {{< tdclose >}}{{< tdopen >}}
 
-Condry, Ian. "[Miku: Japan's Virtual Idol and Media Platform](https://civic.mit.edu/index.html%3Fp=1749.html)." MIT Center for Civic Media.
+Condry, Ian. "{{% resource_link "52c4ec97-2c13-43a2-b9de-606019e980d7" "Miku: Japan's Virtual Idol and Media Platform" %}}." MIT Center for Civic Media.
 
-Galbraith, Patrick W., and Jason G. Karlin. "Introduction: The Mirror of Idols and Celebrity." In *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309. \[Preview with [Google Books](https://www.google.com/books/edition/Idols_and_Celebrity_in_Japanese_Media_Cu/X4uk9vgoyDcC?hl=en&gbpv=0)\]
+Galbraith, Patrick W., and Jason G. Karlin. "Introduction: The Mirror of Idols and Celebrity." In *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309. \[Preview with {{% resource_link "901fd682-c176-4268-93e9-c4187f63f4d2" "Google Books" %}}\]
 
 Glasspool, Lucy. "From Boys Next Door to Boys' Love: Gender Performance in Japanese Male Idol Media." Chapter 5 in *Idols and Celebrity in Japanese Media Culture*. Edited by Patrick W. Galbraith and Jason G. Karlin. Palgrave Macmillan, 2012. ISBN: 9780230298309.
 
@@ -277,11 +277,11 @@ Glasspool, Lucy. "From Boys Next Door to Boys' Love: Gender Performance in Japan
 Gender and Games (featuring Kyrie)
 {{< tdclose >}}{{< tdopen >}}
 
-Galbraith, Patrick W. "[Bishōjo Games: 'Techno-Intimacy' and the Virtually Human in Japan](http://gamestudies.org/1102/articles/galbraith)." *Game Studies* 11, no. 2 (2011).
+Galbraith, Patrick W. "{{% resource_link "bdc5a2aa-d04d-46cc-9e90-1ce2b8db3951" "Bishōjo Games: 'Techno-Intimacy' and the Virtually Human in Japan" %}}." *Game Studies* 11, no. 2 (2011).
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516068) Ito, Mizuko. "Gender Dynamics of the Japanese Media Mix." Chapter 7 in *Beyond Barbie & Mortal Combat: New Perspectives on Gender and Gaming*. Edited by Yasmin B. Kafai, Carrie Heeter, et al. MIT Press, 2011. ISBN: 9780262516068.
+{{% resource_link "cfc064cc-1b5c-456a-85f8-ef2530f03485" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ito, Mizuko. "Gender Dynamics of the Japanese Media Mix." Chapter 7 in *Beyond Barbie & Mortal Combat: New Perspectives on Gender and Gaming*. Edited by Yasmin B. Kafai, Carrie Heeter, et al. MIT Press, 2011. ISBN: 9780262516068.
 
-Consalvo, Mia. ["Visiting the Floating World: Tracing a Cultural History of Games Through Japan and America" (PDF)](https://pdfs.semanticscholar.org/c604/785f3f8b65998bfc8a84e9e4af974a248b45.pdf?_ga=2.27916090.763302225.1564086833-672817412.1563980296) Ohio University.
+Consalvo, Mia. {{% resource_link "7dad9da6-6c2a-4e8f-abc2-e85a95d98693" "\"Visiting the Floating World: Tracing a Cultural History of Games Through Japan and America\" (PDF)" %}} Ohio University.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -289,13 +289,13 @@ Consalvo, Mia. ["Visiting the Floating World: Tracing a Cultural History of Game
 Queer Japan
 {{< tdclose >}}{{< tdopen >}}
 
-Blow, Charles M. "[Sexual Attraction and Fluidity](http://www.nytimes.com/2015/09/07/opinion/charles-m-blow-sexual-attraction-and-fluidity.html?smprod=nytcore-ipad&_r=1)," *New York Times*, September 7, 2015.
+Blow, Charles M. "{{% resource_link "acc5cd43-e2e7-43fe-8348-0d96bff58c93" "Sexual Attraction and Fluidity" %}}," *New York Times*, September 7, 2015.
 
 McLelland, Mark J. "Japan's Queer Cultures." Chapter 11 in *Routledge Handbook of Japanese Culture and Society*. Edited by Victoria Lyon Bestor, Theodore C. Bestor, et al. Routledge, 2013. ISBN: 9780415709149.
 
 ### View
 
-[*We Are Transgenders*](http://www.tcm.com/tcmdb/title/522589/We-Are-Transgenders/). Directed by Lulu Ogawa. Color, 78 min. 1998.
+{{% resource_link "ff5b0594-9038-43af-918b-7661dd5a7bbf" "*We Are Transgenders*" %}}. Directed by Lulu Ogawa. Color, 78 min. 1998.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21–23

@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of course topics, events, screenings,
   and assignments.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -37,7 +35,7 @@ Microtheme due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecturer: [Professor Edward Schiappa](http://cmsw.mit.edu/profile/ed-schiappa/), Comparative Media Studies, MIT
+Guest Lecturer: {{% resource_link "32439fa0-8e57-4742-99de-1f8667f121a4" "Professor Edward Schiappa" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -71,7 +69,7 @@ Capital, Debt, and Power
 {{< tdclose >}}{{< tdopen >}}
 Microtheme due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-*Special Event in Lieu of Class:* [Dissolve Unconference: A Summit on Inequality](http://cmsw.mit.edu/event/dissolve-unconference-a-summit-on-inequality/)
+*Special Event in Lieu of Class:* {{% resource_link "9c7774a4-79b1-4521-9ccc-91763f19f72a" "Dissolve Unconference: A Summit on Inequality" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -84,7 +82,7 @@ Essay 1 draft due
 
 Robots, Gender, and Sexism in 21{{< sup "st" >}} Century Japan
 
-*Screening:* [*Shanghai Dragon*](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5840). Directed by Shoji Kawamori. Color, 20 min. 2007.
+*Screening:* {{% resource_link "edcdd2ef-6082-4e2d-9ed5-31eb3b104ea7" "*Shanghai Dragon*" %}}. Directed by Shoji Kawamori. Color, 20 min. 2007.
 
 {{< tdclose >}}{{< tdopen >}}
 Essay 1 due
@@ -109,7 +107,7 @@ Microtheme due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Either Attend Class or Attend Harvard University Professor [Theodore C. Bestor](http://scholar.harvard.edu/bestor)'s lecture "Washoku on the World Stage: UNESCO and the Promotion of Japanese Cuisine."
+Either Attend Class or Attend Harvard University Professor {{% resource_link "7c7eafd6-fa42-476e-aa39-c374bca04474" "Theodore C. Bestor" %}}'s lecture "Washoku on the World Stage: UNESCO and the Promotion of Japanese Cuisine."
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,7 +146,7 @@ Essay 2 due
 
 Queer Japan
 
-*Screening:* [*We Are Transgenders*](http://www.tcm.com/tcmdb/title/522589/We-Are-Transgenders/). Directed by Lulu Ogawa. Color, 78 min. 1998.
+*Screening:* {{% resource_link "ff5b0594-9038-43af-918b-7661dd5a7bbf" "*We Are Transgenders*" %}}. Directed by Lulu Ogawa. Color, 78 min. 1998.
 
 {{< tdclose >}}{{< tdopen >}}
  
